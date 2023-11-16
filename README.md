@@ -30,7 +30,7 @@ Este é o backup do banco de dados MySQL, utilizado no exemplo. Use-o para impor
 
 > Lembre de salvar um backup da estrutura de seu banco de dados dentro do seu projeto
 
-### 📑 Páginas do Projeto
+## 📑 Páginas do Projeto
 
 Na raíz do projeto podemos encontrar os arquivos de páginas. 
 
