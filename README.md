@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
 </div>
 
----
-
 ## 📃 Sobre o Projeto
 
 Este projeto tem o objetivo de ser um simples template de uma implementação de um sistema CRUD utilizando `PHP PDO Statement`. Segue abaixo um resumo do seu funcionamento e de sua estrutura
